@@ -1,0 +1,211 @@
+[
+    "index.md",
+    "introductie.html",
+    "structuur.html",
+    {
+        "attr": {
+            "data-background": "img/monsters.jpg"
+        }
+    },
+    "hoe-houden-we-die-monsters-in-toom.html",
+    "hoe-houden-we-die-monsters-in-toom1.html",
+    "entities.html",
+    {
+        "attr": {
+            "data-background": "img/entitytype.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/manage-fields.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/create-page.png",
+            "data-background-size": "contain"
+        }
+    },
+    "entities-viewmodes-html-4.html",
+    {
+        "attr": {
+            "data-background": "img/viewmodes-config.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/viewmode-conf.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/viewmode-full.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/viewmode-full-highlight.png",
+            "data-background-size": "contain"
+        }
+    },
+    "hoe-houden-we-die-monsters-in-toom2.html",
+    "entities-viewmodes-html.html",
+    {
+        "attr": {
+            "data-background": "img/viewmode-menuitem.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/viewmode-menuitem-highlight.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/viewmodes.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/viewmodes-highlight.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/json-manage.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/json.png",
+            "data-background-size": "contain"
+        }
+    },
+    "entities-viewmodes-html-3.html",
+    "hoe-houden-we-die-monsters-in-toom3.html",
+    "display-suite-2.html",
+    "markup.html",
+    "display-suite-3.html",
+    "display-suite.html",
+    {
+        "filename": "voordeel-1.html",
+        "attr": {
+            "data-background": "#2a5304"
+        }
+    },
+    {
+        "filename": "dont-2.html",
+        "attr": {
+            "data-background": "#5f0000"
+        }
+    },
+    "preprocessors.html",
+    "preprocess-html.html",
+    "preprocess-html2.html",
+    "hoe-houden-we-die-monsters-in-toom4.html",
+    "sass.html",
+    "sass-2.html",
+    {
+        "attr": {
+            "data-background": "img/sass-folder.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "filename": "dont-1.html",
+        "attr": {
+            "data-background": "#5f0000"
+        }
+    },
+    "smacss.html",
+    "autoprefixer.html",
+    {
+        "attr": {
+            "data-background": "img/autoprefixer.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "filename": "voordeel-2.html",
+        "attr": {
+            "data-background": "#2a5304"
+        }
+    },
+    "asymmetrische-grids.html",
+    {
+        "attr": {
+            "data-background": "img/grid.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/grid3.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/grid2.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/grid4.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/grid5.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    {
+        "filename": "voordeel-3.html",
+        "attr": {
+            "data-background": "#2a5304"
+        }
+    },
+    "multi-span.html",
+    {
+        "attr": {
+            "data-background": "img/moso-1.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/moso-2.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/moso-3.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    "bundler.html",
+    "grunt-gulp.html",
+    "bedankt.html"
+]

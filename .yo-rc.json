@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Frontend tips, tricks en open gesprek",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "danielbeeke",
+    "githubRepository": "frontend-tips"
+  }
+}

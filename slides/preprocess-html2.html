@@ -1,0 +1,19 @@
+<em class="active">Schone markup</em>
+<br><br>
+<h2>block.tpl.php</h2>
+<pre><code class="php">&lt;?php if(!isset($hide_wrappers)): ?&gt;
+  &lt;div id=&quot;&lt;?php print $block_html_id; ?&gt;&quot; class=&quot;&lt;?php print $classes; ?&gt;&quot;&lt;?php print $attributes; ?&gt;&gt;
+    &lt;div class=&quot;content&quot;&lt;?php print $content_attributes; ?&gt;&gt;
+&lt;?php endif;?&gt;
+
+  &lt;?php print render($title_prefix); ?&gt;
+    &lt;?php if ($block-&gt;subject): ?&gt;
+      &lt;h2&lt;?php print $title_attributes; ?&gt;&gt;&lt;?php print $block-&gt;subject ?&gt;&lt;/h2&gt;
+    &lt;?php endif;?&gt;
+  &lt;?php print render($title_suffix); ?&gt;
+
+  &lt;?php print $content ?&gt;
+
+&lt;?php if(!isset($hide_wrappers)): ?&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;?php endif;?&gt;</code></pre>

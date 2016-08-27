@@ -1,0 +1,18 @@
+<em class="active">Schone markup</em>
+<br><br>
+<h2>template.php</h2>
+<pre><code class="php">
+/**
+ * Implements hook_preprocess_block().
+ */
+function vdh_jacket_preprocess_block(&$variables) {
+  $blocks_with_wrapper = array(
+    'vdh_basic-footer',
+  );
+
+  if (!in_array($variables['block']->bid, $blocks_with_wrapper)) {
+    $variables['hide_wrappers'] = TRUE;
+  }
+}
+
+</code></pre>

@@ -1,0 +1,8 @@
+{
+  "name": "frontend-tips-tricks-en-open-gesprek",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1",
+    "reveal-highlight-themes": "~8.3.0"
+  }
+}
