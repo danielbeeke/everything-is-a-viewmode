@@ -1,2 +1,3 @@
-<h1>Alles is een viewmode</h1>
-<h3>Theming: Display Suite, SMACSS, Grunt en SASS</h3>
+# Everything is a 
+# viewmode
+### How data flows impact frontend architecture
