@@ -104,6 +104,12 @@
     "hoe-houden-we-die-monsters-in-toom3.html",
     "display-suite-2.html",
     "yikes.md",
+    {
+        "attr": {
+            "data-background": "img/animal-muppets-drums-id.jpg",
+            "data-background-size": "cover"
+        }
+    },
     "markup.html",
     "display-suite.html",
     "display-suite-3.html",
@@ -136,7 +142,7 @@
     {
         "filename": "dont-1.html",
         "attr": {
-            "data-background": "#5f0000"
+            "data-background": "img/Flyingmonkeys.JPG"
         }
     },
     "smacss.html",
@@ -219,5 +225,12 @@
         }
     },
     "grunt-gulp.html",
-    "bedankt.html"
+    {
+        "filename": "bedankt.html",
+        "attr": {
+            "data-background": "img/Muppets2011Trailer02-62.jpg",
+            "data-background-size": "cover"
+
+        }
+    }
 ]
