@@ -92,35 +92,47 @@
         }
     },
     "entities-viewmodes-html-3.html",
+    "monster-toom23.html",
+    "stark.md",
+    {
+        "filename": "take-control.md",
+        "attr": {
+            "data-background": "img/control.jpg",
+            "data-background-size": "contain"
+        }
+    },
     "hoe-houden-we-die-monsters-in-toom3.html",
     "display-suite-2.html",
+    "yikes.md",
     "markup.html",
-    "display-suite-3.html",
     "display-suite.html",
+    "display-suite-3.html",
+    {
+        "attr": {
+            "data-background": "img/ds.png",
+            "data-background-size": "contain"
+        }
+    },
     {
         "filename": "voordeel-1.html",
         "attr": {
             "data-background": "#2a5304"
         }
     },
-    {
-        "filename": "dont-2.html",
-        "attr": {
-            "data-background": "#5f0000"
-        }
-    },
     "preprocessors.html",
     "preprocess-html.html",
     "preprocess-html2.html",
+    "preprocess_image.md",
     "hoe-houden-we-die-monsters-in-toom4.html",
     "sass.html",
+    "files.md",
+    "files2.md",
+    "sass-node.md",
+    "sass-node-full.md",
+    "sass-node-page-full.md",
+    "modifier.md",
+    "sass-colors.md",
     "sass-2.html",
-    {
-        "attr": {
-            "data-background": "img/sass-folder.png",
-            "data-background-size": "contain"
-        }
-    },
     {
         "filename": "dont-1.html",
         "attr": {
@@ -177,6 +189,7 @@
 
         }
     },
+    "grid-span.md",
     {
         "filename": "voordeel-3.html",
         "attr": {
@@ -205,7 +218,6 @@
 
         }
     },
-    "bundler.html",
     "grunt-gulp.html",
     "bedankt.html"
 ]
