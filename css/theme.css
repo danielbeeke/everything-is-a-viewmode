@@ -142,4 +142,8 @@ body {
 .active {
   color: #71e9f4; }
 
+a {
+  color: white !important;
+  text-decoration: underline !important; }
+
 /*# sourceMappingURL=theme.css.map */

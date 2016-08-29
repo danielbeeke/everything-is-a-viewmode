@@ -1,3 +1,8 @@
+<em class="active">Clean css</em>
+<br>
+<br>
+<h2>Multi grid span</h2>
+
 <pre><code class="scss">
 @mixin multi-grid-span($Span, $Location, $clear: false, $grid: false, $gutter: false, $gutter-style: false, $from: false) {
   @include breakpoint($mobile) {
@@ -5,10 +10,6 @@
   }
 
   @include breakpoint($tablet) {
-    @include isolation-span($Span, $Location, $clear, $grid, $gutter, $gutter-style, $from);
-  }
-
-  @include breakpoint($laptop) {
     @include isolation-span($Span, $Location, $clear, $grid, $gutter, $gutter-style, $from);
   }
 
